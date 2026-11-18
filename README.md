@@ -1,11 +1,11 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Noto+Sans+SC&weight=700&size=18&color=FF5A2E&center=true&vCenter=true&pause=2000&lines=Hi%2C+I%27m+Bobby%E4%B8%B6Bian.;%E6%88%91%E6%98%AF%E4%B8%80%E4%B8%AA%E5%85%A8%E6%A0%88%E5%B7%A5%E7%A8%8B%E5%B8%88+%C2%B7+Full-Stack+Engineer;AI+Tooling+%C2%B7+RAG+%C2%B7+Video+Pipelines" alt="Hi, I'm Bobby丶Bian — 我是一个全栈工程师" />
-  <p><strong>在红色星球上写代码，把想法发射到轨道。</strong> 🚀</p>
+  <a href="https://github.com/BobbyBian97"><img src="https://readme-typing-svg.demolab.com?font=Cascadia+Code&weight=600&size=20&color=FF5A2E&center=true&vCenter=true&pause=2000&lines=Hi%2C+I%27m+Bobby%E4%B8%B6Bian.;Full-Stack+Engineer;AI+Tooling+%C2%B7+RAG+%C2%B7+Video+Pipelines" alt="Hi, I'm Bobby丶Bian — Full-Stack Engineer"></a>
+  <p><strong>Writing code on the Red Planet, launching ideas into orbit.</strong> 🚀</p>
 </div>
 
-#### ⛭ Payload Manifest
+<h4 align="center">⛭ Payload Manifest</h4>
 
-<p>
+<p align="center">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java">
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript">
@@ -16,27 +16,35 @@
   <img src="https://img.shields.io/badge/NoSQL-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="NoSQL">
 </p>
 
-#### 📡 Telemetry
+<h4 align="center">📡 Telemetry</h4>
 
-<p>
+<p align="center">
   <a href="https://github.com/BobbyBian97?tab=followers"><img src="https://img.shields.io/github/followers/BobbyBian97?label=FOLLOWERS&style=for-the-badge&color=FF5A2E" alt="followers"></a>
   <img src="https://img.shields.io/badge/PUBLIC%20REPOS-26-FF5A2E?style=for-the-badge" alt="public repos">
   <img src="https://img.shields.io/badge/FOLLOWING-14-a5745d?style=for-the-badge" alt="following">
   <img src="https://img.shields.io/badge/OPEN%20TO-COLLAB-3FB950?style=for-the-badge" alt="open to collab">
 </p>
 
-#### 🧩 收录插件
+<h4 align="center">🧩 Published Plugins</h4>
 
-[CCGUI 插件市场](https://github.com/zhukunpenglinyutong/ccgui-plugins) 已上架：
+<p align="center">
+  <a href="https://github.com/zhukunpenglinyutong/ccgui-plugins"><img src="https://img.shields.io/badge/CCGUI%20PLUGIN%20MARKET-LIVE-3FB950?style=for-the-badge" alt="CCGUI Plugin Market"></a>
+</p>
 
-- 🖥️ **[本机任务监控](https://github.com/BobbyBian97/ccgui-plugin-local-task-monitor)** — CC GUI 进程树与工作区服务监控：PID / 端口 / CPU / 内存，服务可停可重启
-- 🔋 **[模型额度胶囊](https://github.com/BobbyBian97/ccgui-plugin-model-quota)** — 输入框状态栏胶囊显示 GLM / OpenCode Go 的 5h / 周 / 月额度
+- 🖥️ **[Local Task Monitor](https://github.com/BobbyBian97/ccgui-plugin-local-task-monitor)** — Process tree and workspace service monitor for CC GUI: PID, ports, CPU, memory, with stop / restart. `JavaScript`
+- 🔋 **[Model Quota Capsule](https://github.com/BobbyBian97/ccgui-plugin-model-quota)** — Status-bar capsule for 5h / weekly / monthly quota on GLM Coding Plan and OpenCode Go. `JavaScript`
 
-#### 📱 AI-Monitor
+<h4 align="center">📱 AI-Monitor</h4>
 
-**[手机侧模型余量监控](https://github.com/BobbyBian97/AI-Monitor)** · `Android` · [下载 APK](https://github.com/BobbyBian97/AI-Monitor/releases/latest)
+<p align="center">
+  <a href="https://github.com/BobbyBian97/AI-Monitor/releases/latest"><img src="https://img.shields.io/github/v/release/BobbyBian97/AI-Monitor?style=for-the-badge&label=RELEASE&color=FF5A2E" alt="Latest release"></a>
+  <a href="https://github.com/BobbyBian97/AI-Monitor/releases"><img src="https://img.shields.io/github/downloads/BobbyBian97/AI-Monitor/total?style=for-the-badge&label=DOWNLOADS&color=a5745d" alt="Downloads"></a>
+  <a href="https://github.com/BobbyBian97/AI-Monitor"><img src="https://img.shields.io/badge/ANDROID-APK-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Android"></a>
+</p>
+
+**[Model quota monitoring on the go.](https://github.com/BobbyBian97/AI-Monitor)** Track usage, remaining quota and reset windows straight from your phone. `Kotlin`
 
 <div align="center">
   <sub>BADGE DECK × TELEMETRY · ALL SYSTEMS NOMINAL · DEPLOYED TO MARS</sub><br>
-  <sub>© 2026 BobbyBian97 · <a href="https://github.com/BobbyBian97?tab=repositories">全部仓库</a></sub>
+  <sub>© 2026 BobbyBian97 · <a href="https://github.com/BobbyBian97?tab=repositories">All repositories</a></sub>
 </div>
