@@ -8,40 +8,15 @@
 
 ---
 
-<table>
-<tr>
-<td width="42%" valign="top">
-
 <h4>⛭ Payload Manifest</h4>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript">
-  <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white" alt="Spring">
-  <img src="https://img.shields.io/badge/SQL-003B57?style=flat-square&logo=sqlite&logoColor=white" alt="SQL">
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker">
-  <img src="https://img.shields.io/badge/MQ-FF6600?style=flat-square&logo=rabbitmq&logoColor=white" alt="MQ">
-  <img src="https://img.shields.io/badge/NoSQL-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="NoSQL">
+<p>
+  <code>Java</code> <code>Python</code> <code>JavaScript</code> <code>Spring</code> <code>SQL</code> <code>Docker</code> <code>MQ</code> <code>NoSQL</code>
 </p>
-
-<h4>📡 Telemetry</h4>
-
-<p align="center">
-  <a href="https://github.com/BobbyBian97?tab=followers"><img src="https://img.shields.io/github/followers/BobbyBian97?label=FOLLOWERS&style=for-the-badge&color=FF5A2E" alt="followers"></a>
-  <img src="https://img.shields.io/badge/PUBLIC%20REPOS-26-FF5A2E?style=for-the-badge" alt="public repos">
-  <img src="https://img.shields.io/badge/FOLLOWING-14-a5745d?style=for-the-badge" alt="following">
-  <img src="https://img.shields.io/badge/OPEN%20TO-COLLAB-3FB950?style=for-the-badge" alt="open to collab">
-</p>
-
-</td>
-<td width="58%" valign="top">
 
 <h4>🧩 Published Plugins</h4>
 
-<p>
-  <a href="https://github.com/zhukunpenglinyutong/ccgui-plugins"><img src="https://img.shields.io/badge/CCGUI%20PLUGIN%20MARKET-LIVE-3FB950?style=for-the-badge" alt="CCGUI Plugin Market"></a>
-</p>
+<p>Live in the <a href="https://github.com/zhukunpenglinyutong/ccgui-plugins"><strong>CCGUI Plugin Market</strong></a>.</p>
 
 <ul>
   <li>🖥️ <a href="https://github.com/BobbyBian97/ccgui-plugin-local-task-monitor"><strong>Local Task Monitor</strong></a> — Process tree and workspace service monitor for CC GUI: PID, ports, CPU, memory, with stop / restart. <code>JavaScript</code></li>
@@ -50,21 +25,11 @@
 
 <h4>📱 AI-Monitor</h4>
 
-<p align="center">
-  <a href="https://github.com/BobbyBian97/AI-Monitor/releases/latest"><img src="https://img.shields.io/github/v/release/BobbyBian97/AI-Monitor?style=for-the-badge&label=RELEASE&color=FF5A2E" alt="Latest release"></a>
-  <a href="https://github.com/BobbyBian97/AI-Monitor/releases"><img src="https://img.shields.io/github/downloads/BobbyBian97/AI-Monitor/total?style=for-the-badge&label=DOWNLOADS&color=a5745d" alt="Downloads"></a>
-  <a href="https://github.com/BobbyBian97/AI-Monitor"><img src="https://img.shields.io/badge/ANDROID-APK-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Android"></a>
-</p>
-
 <p><a href="https://github.com/BobbyBian97/AI-Monitor"><strong>Model quota monitoring on the go.</strong></a> Track usage, remaining quota and reset windows straight from your phone. <code>Kotlin</code></p>
-
-</td>
-</tr>
-</table>
 
 ---
 
 <div align="center">
-  <sub>BADGE DECK × TELEMETRY · ALL SYSTEMS NOMINAL · DEPLOYED TO MARS</sub><br>
+  <sub>ALL SYSTEMS NOMINAL · DEPLOYED TO MARS</sub><br>
   <sub>© 2026 BobbyBian97 · <a href="https://github.com/BobbyBian97?tab=repositories">All repositories</a></sub>
 </div>
