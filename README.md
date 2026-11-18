@@ -25,35 +25,6 @@
   <img src="https://img.shields.io/badge/OPEN%20TO-COLLAB-3FB950?style=for-the-badge" alt="open to collab">
 </p>
 
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=BobbyBian97&show_icons=true&hide=issues,prs&bg_color=0D1117&title_color=FF5A2E&icon_color=FF7A45&text_color=C9D1D9&border_color=30363D">
-    <img src="https://github-readme-stats.vercel.app/api?username=BobbyBian97&show_icons=true&hide=issues,prs&bg_color=FFFFFF&title_color=D4380D&icon_color=E0490F&text_color=1F2328&border_color=D0D7DE" alt="GitHub stats">
-  </picture>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=BobbyBian97&layout=compact&bg_color=0D1117&title_color=FF5A2E&text_color=C9D1D9&border_color=30363D">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BobbyBian97&layout=compact&bg_color=FFFFFF&title_color=D4380D&text_color=1F2328&border_color=D0D7DE" alt="Top languages">
-  </picture>
-</p>
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=BobbyBian97&background=0D1117&border=30363D&stroke=30363D&ring=FF5A2E&fire=FF7A45&currStreakNum=FF5A2E&sideNums=FF5A2E&currStreakLabel=FFB37E&sideLabels=C9D1D9&dates=7D6A60">
-    <img src="https://streak-stats.demolab.com?user=BobbyBian97&background=FFFFFF&border=D0D7DE&stroke=D0D7DE&ring=D4380D&fire=E0490F&currStreakNum=D4380D&sideNums=D4380D&currStreakLabel=9A3412&sideLabels=57606A&dates=8C959F" alt="GitHub streak">
-  </picture>
-</p>
-
-#### 🚀 Active Missions
-
-| ID | 模块 | 简介 | 语言 | 状态 |
-|:---:|---|---|:---:|:---:|
-| MOD-01 | [AI-ToRAG](https://github.com/BobbyBian97/AI-ToRAG) | 自研检索增强生成系统：文档解析、向量检索与回答编排 | `Python` | ● ACTIVE |
-| MOD-02 | [AI-Monitor](https://github.com/BobbyBian97/AI-Monitor) | AI 使用情况监测客户端：用量、额度与调用轨迹的桌面看板 | `Kotlin` | ● IN ORBIT |
-| MOD-03 | [explainer-video-skill](https://github.com/BobbyBian97/explainer-video-skill) | 主题进、成片出的 1080P 讲解视频流水线 | `Python` | ● ACTIVE |
-| MOD-04 | [ccgui-plugin-local-task-monitor](https://github.com/BobbyBian97/ccgui-plugin-local-task-monitor) | CC GUI 插件：本机进程与任务面板 | `JavaScript` | ● ACTIVE |
-| MOD-05 | [ccgui-plugin-running-sessions](https://github.com/BobbyBian97/ccgui-plugin-running-sessions) | CC GUI 插件：跨项目实时回显运行中会话 | `JavaScript` | ● ACTIVE |
-| MOD-06 | [ccgui-plugin-model-quota](https://github.com/BobbyBian97/ccgui-plugin-model-quota) | CC GUI 插件：状态栏显示 GLM / OpenCode Go 额度 | `JavaScript` | ● ACTIVE |
-
 > 🛒 插件收录于 [CCGUI 插件市场](https://github.com/BobbyBian97/ccgui-plugins)
 
 <details>
