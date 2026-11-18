@@ -3,16 +3,14 @@
   <a href="https://github.com/BobbyBian97"><img src="https://readme-typing-svg.demolab.com?font=Cascadia+Code&weight=700&size=34&color=FF5A2E&center=true&vCenter=true&pause=2500&width=900&lines=Hi%2C+I%27m+Bobby%E4%B8%B6Bian.;Full-Stack+Engineer;AI+Tooling+%C2%B7+RAG+%C2%B7+Video+Pipelines" alt="Hi, I'm Bobby丶Bian — Full-Stack Engineer"></a>
 
   <h3>Writing code on the Red Planet,<br>launching ideas into orbit. 🚀</h3>
-
-  <p>
-    <a href="https://github.com/BobbyBian97?tab=followers"><img src="https://img.shields.io/github/followers/BobbyBian97?label=FOLLOWERS&style=for-the-badge&color=FF5A2E" alt="followers"></a>
-    <img src="https://img.shields.io/badge/PUBLIC%20REPOS-26-FF5A2E?style=for-the-badge" alt="public repos">
-    <img src="https://img.shields.io/badge/FOLLOWING-14-a5745d?style=for-the-badge" alt="following">
-    <img src="https://img.shields.io/badge/OPEN%20TO-COLLAB-3FB950?style=for-the-badge" alt="open to collab">
-  </p>
+  <br>
 </div>
 
 ---
+
+<table>
+<tr>
+<td width="42%" valign="middle" align="center">
 
 <h4 align="center">⛭ Payload Manifest</h4>
 
@@ -27,14 +25,28 @@
   <img src="https://img.shields.io/badge/NoSQL-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="NoSQL">
 </p>
 
+<h4 align="center">📡 Telemetry</h4>
+
+<p align="center">
+  <a href="https://github.com/BobbyBian97?tab=followers"><img src="https://img.shields.io/github/followers/BobbyBian97?label=FOLLOWERS&style=for-the-badge&color=FF5A2E" alt="followers"></a>
+  <img src="https://img.shields.io/badge/PUBLIC%20REPOS-26-FF5A2E?style=for-the-badge" alt="public repos">
+  <img src="https://img.shields.io/badge/FOLLOWING-14-a5745d?style=for-the-badge" alt="following">
+  <img src="https://img.shields.io/badge/OPEN%20TO-COLLAB-3FB950?style=for-the-badge" alt="open to collab">
+</p>
+
+</td>
+<td width="58%" valign="top">
+
 <h4 align="center">🧩 Published Plugins</h4>
 
 <p align="center">
   <a href="https://github.com/zhukunpenglinyutong/ccgui-plugins"><img src="https://img.shields.io/badge/CCGUI%20PLUGIN%20MARKET-LIVE-3FB950?style=for-the-badge" alt="CCGUI Plugin Market"></a>
 </p>
 
-- 🖥️ **[Local Task Monitor](https://github.com/BobbyBian97/ccgui-plugin-local-task-monitor)** — Process tree and workspace service monitor for CC GUI: PID, ports, CPU, memory, with stop / restart. `JavaScript`
-- 🔋 **[Model Quota Capsule](https://github.com/BobbyBian97/ccgui-plugin-model-quota)** — Status-bar capsule for 5h / weekly / monthly quota on GLM Coding Plan and OpenCode Go. `JavaScript`
+<ul>
+  <li>🖥️ <a href="https://github.com/BobbyBian97/ccgui-plugin-local-task-monitor"><strong>Local Task Monitor</strong></a> — Process tree and workspace service monitor for CC GUI: PID, ports, CPU, memory, with stop / restart. <code>JavaScript</code></li>
+  <li>🔋 <a href="https://github.com/BobbyBian97/ccgui-plugin-model-quota"><strong>Model Quota Capsule</strong></a> — Status-bar capsule for 5h / weekly / monthly quota on GLM Coding Plan and OpenCode Go. <code>JavaScript</code></li>
+</ul>
 
 <h4 align="center">📱 AI-Monitor</h4>
 
@@ -44,7 +56,11 @@
   <a href="https://github.com/BobbyBian97/AI-Monitor"><img src="https://img.shields.io/badge/ANDROID-APK-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Android"></a>
 </p>
 
-**[Model quota monitoring on the go.](https://github.com/BobbyBian97/AI-Monitor)** Track usage, remaining quota and reset windows straight from your phone. `Kotlin`
+<p><a href="https://github.com/BobbyBian97/AI-Monitor"><strong>Model quota monitoring on the go.</strong></a> Track usage, remaining quota and reset windows straight from your phone. <code>Kotlin</code></p>
+
+</td>
+</tr>
+</table>
 
 ---
 
