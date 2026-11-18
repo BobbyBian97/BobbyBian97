@@ -10,9 +10,9 @@
 
 <table>
 <tr>
-<td width="42%" valign="middle" align="center">
+<td width="42%" valign="top">
 
-<h4 align="center">⛭ Payload Manifest</h4>
+<h4>⛭ Payload Manifest</h4>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java">
@@ -25,7 +25,7 @@
   <img src="https://img.shields.io/badge/NoSQL-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="NoSQL">
 </p>
 
-<h4 align="center">📡 Telemetry</h4>
+<h4>📡 Telemetry</h4>
 
 <p align="center">
   <a href="https://github.com/BobbyBian97?tab=followers"><img src="https://img.shields.io/github/followers/BobbyBian97?label=FOLLOWERS&style=for-the-badge&color=FF5A2E" alt="followers"></a>
@@ -37,9 +37,9 @@
 </td>
 <td width="58%" valign="top">
 
-<h4 align="center">🧩 Published Plugins</h4>
+<h4>🧩 Published Plugins</h4>
 
-<p align="center">
+<p>
   <a href="https://github.com/zhukunpenglinyutong/ccgui-plugins"><img src="https://img.shields.io/badge/CCGUI%20PLUGIN%20MARKET-LIVE-3FB950?style=for-the-badge" alt="CCGUI Plugin Market"></a>
 </p>
 
@@ -48,7 +48,7 @@
   <li>🔋 <a href="https://github.com/BobbyBian97/ccgui-plugin-model-quota"><strong>Model Quota Capsule</strong></a> — Status-bar capsule for 5h / weekly / monthly quota on GLM Coding Plan and OpenCode Go. <code>JavaScript</code></li>
 </ul>
 
-<h4 align="center">📱 AI-Monitor</h4>
+<h4>📱 AI-Monitor</h4>
 
 <p align="center">
   <a href="https://github.com/BobbyBian97/AI-Monitor/releases/latest"><img src="https://img.shields.io/github/v/release/BobbyBian97/AI-Monitor?style=for-the-badge&label=RELEASE&color=FF5A2E" alt="Latest release"></a>
