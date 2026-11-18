@@ -27,16 +27,6 @@
 
 > 🛒 插件收录于 [CCGUI 插件市场](https://github.com/BobbyBian97/ccgui-plugins)
 
-<details>
-<summary>🔒 内部项目与技术关键词</summary>
-
-- **data-migration-kettle**（Java，私有）— 致敬 Kettle 的数据迁移工具：源端抽取、清洗转换与目标装载
-- **software_design**（TypeScript，私有）— 软件设计的思考与沉淀：架构笔记、模式实践与可复用样例
-
-关键词：`RAG / LLM` · `Agent infra` · `MQ` · `NoSQL` · `FFmpeg` · `Tauri`
-
-</details>
-
 <div align="center">
   <sub>BADGE DECK × TELEMETRY · ALL SYSTEMS NOMINAL · DEPLOYED TO MARS</sub><br>
   <sub>© 2026 BobbyBian97 · <a href="https://github.com/BobbyBian97?tab=repositories">全部仓库</a></sub>
