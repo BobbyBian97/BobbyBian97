@@ -27,13 +27,14 @@
 
 #### 🧩 收录插件
 
-[CCGUI 插件市场](https://github.com/BobbyBian97/ccgui-plugins) 已收录 **28** 款社区插件 · 编辑精选：
+[CCGUI 插件市场](https://github.com/zhukunpenglinyutong/ccgui-plugins) 已上架：
 
-- ⚡ **[Token 速度表](https://github.com/zhukunpenglinyutong/ccgui-plugin-token-meter)** — composer 实时显示 token 输出速度与缓存命中率
-- 🩺 **[React Doctor](https://github.com/zhukunpenglinyutong/ccgui-plugin-react-doctor)** — 一条命令给前端项目做体检：评分环 + 逐文件定位
-- 📥 **[文件拖拽上传](https://github.com/wszbest68-gif/ccgui-plugin-file-drag-upload)** — 拖进聊天窗口即可预览、删除、重新排序
-- 🏷️ **[会话自动命名](https://github.com/zhukunpenglinyutong/ccgui-plugin-auto-title)** — 每轮对话结束自动生成「emoji + 对象｜目标」式标题
-- 💰 **[余额与余量](https://github.com/zhujiuyi/ccgui-plugin-balance-meter)** — API 查余额、订阅查余量，按网关自动识别
+- 🖥️ **[本机任务监控](https://github.com/BobbyBian97/ccgui-plugin-local-task-monitor)** — CC GUI 进程树与工作区服务监控：PID / 端口 / CPU / 内存，服务可停可重启
+- 🔋 **[模型额度胶囊](https://github.com/BobbyBian97/ccgui-plugin-model-quota)** — 输入框状态栏胶囊显示 GLM / OpenCode Go 的 5h / 周 / 月额度
+
+#### 📱 AI-Monitor
+
+**[手机侧模型余量监控](https://github.com/BobbyBian97/AI-Monitor)** · `Android` · [下载 APK](https://github.com/BobbyBian97/AI-Monitor/releases/latest)
 
 <div align="center">
   <sub>BADGE DECK × TELEMETRY · ALL SYSTEMS NOMINAL · DEPLOYED TO MARS</sub><br>
